@@ -1,0 +1,2 @@
+C:\Users\Dev1\Desktop\Metaverse-Rebuilt\Metaverse-Rebuilt\obj\Debug\Metaverse-Rebuilt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev1\Desktop\Metaverse-Rebuilt\Metaverse-Rebuilt\obj\Debug\Metaverse-Rebuilt.csproj.CoreCompileInputs.cache
